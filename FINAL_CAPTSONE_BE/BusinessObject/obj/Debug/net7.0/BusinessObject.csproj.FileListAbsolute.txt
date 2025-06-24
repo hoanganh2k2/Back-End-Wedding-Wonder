@@ -1,0 +1,15 @@
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\bin\Debug\net7.0\BusinessObject.runtimeconfig.json
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.sourcelink.json
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\BusinessObject.genruntimeconfig.cache
+E:\Chuyen nganh\Dotnet\WW\WeddingWonder\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
